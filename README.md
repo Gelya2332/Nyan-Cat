@@ -1,4 +1,4 @@
-# нян кэт после
+# Рисунок Нян Кота
 
 A Pen created on CodePen.
 
