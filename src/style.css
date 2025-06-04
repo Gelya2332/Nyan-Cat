@@ -1,0 +1,7 @@
+#drawing { 
+  border: 2px solid #000;
+  background: rgb(25,25,112);
+  display: block;
+  margin: 0 auto;
+  background: linear-gradient(0deg, #1c184a 10%, #3829e3 50%, #06041c 100%);
+}
